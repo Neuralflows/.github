@@ -16,7 +16,7 @@
 
 ### Sobre nosotros
 
-Construimos herramientas que hacen que trabajar con modelos de IA sea mas productivo y menos frustrante. Software de escritorio, no SaaS. Tus datos se quedan en tu maquina.
+Construimos herramientas que hacen que trabajar con modelos de IA sea mas productivo y menos frustrante.
 
 <p align="center">
   <a href="https://neuralflow.es">neuralflow.es</a> &middot;
